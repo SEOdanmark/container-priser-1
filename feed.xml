@@ -12,288 +12,195 @@
 <link rel="canonical" href="privacy-policy.html">
 <link rel="shortcut icon"  href="img/logo.jpg"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'"><link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&amp;display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-.e87c505b5232f55a3fe29528d64b1136a{
-padding: 20px;
-background: #ffffff;
-margin-bottom: 30px;
-position: relative;
-border-radius: 2px;  
-
-margin-bottom: 30px;
-transition: all 400ms;
-}
-.d610aa53cb1da9b07d0e698c0473cf6f4 i{
-border-radius: 50%;
-width: 37px;
-line-height: 35px;
-text-align: center;
-height: 37.2px;
-}
-body{
-color: #4d4d4d;
-}
-.y936a1f882040d6cf8e9f5903563a38f4{
-font-weight: inherit;
-background-image: linear-gradient(120deg, #ffd062 0%, #ffce60 100%);
-background-repeat: no-repeat;
-background-size: 100% 30%;
-background-position: 0 90%;
-transition: background-size 0.2s ease-in;
-}
-.fe8b402307dc65ab948a1fb00b6628a2c{
-font-size: 2rem !important;
-}
-.e87c505b5232f55a3fe29528d64b1136a > a > .{
-font-weight: 400;
-margin-bottom: 0.625rem;
-line-height:1.7;
-font-size:15.5px;
-}
-.navbar{
-padding-top:42px;padding-bottom:42px;
-}
-.justify-content-evenly{
-justify-content: space-evenly;
-}
-.nav-link{
-color: #000000;
-
-}
-h1{
-font-weight:900
-}
-footer{
-background:#131313;
-color:#ffffff;
-}
-.btn-md{
-padding: 15px 29.8px;
-border-radius: 0;
-}
-.navbar-toggler span{
-display: flex;
-align-items: center;
-justify-content: center;
-border: 1px solid lightgrey;
-border-radius: 3px;
-}
-.y7d080a8b7d1a6385ff466c6b2ba315ee a{
-font-size:16px;
-}
-.navbar-brand img{
-position:absolute;z-index:1000;top:0px;padding:20px 30px;background:white
-}
-.t38576251177f9be393ab94fe77498ea7 *{
-color:#000000;
-}
-.nav-item{
-padding-left:8.3px;
-padding-right:7.8px;
-padding-top:4.8px;
-padding-bottom:4.5px;
-}
-. a{
-color: white;
-}
-.post-content *{
-
-font-size: 1.25rem;
-}
-.fa2e3e717e86f39fa72d4b9b86365543b{
-font-weight:900;
-}
-.db5c8684f155fcffe97931c00deb0be90{
-color: #fff;
-background-color: #fb824d;
-border-color: #ff8e59;
-display: inline-block;
-font-weight: 800;
-line-height: 1.5;
-text-align: center;
-vertical-align: middle;
-cursor: pointer;
-padding: 1rem 1.75rem;
-font-size: 0.875rem;
-border-radius: 0;
-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-}
-.y840a5d9cf4be23fe10d0d4c630951c64{
-color: #a3a3a3;
-font-size: 20.5px;
-margin-bottom: 20.6px;
-}
-.e87c505b5232f55a3fe29528d64b1136a > . > a{
-text-decoration: none;
-}
-.{
-font-size:15.5px!important;
-font-style: italic;
-margin-top: 0;
-font-style: normal;
-color: #535353;
-}
-h3,h2,h4,h5{
-font-weight:900;font-size:36px
-}
-.x056adb298392e4e5f45740c91fca6622{
-background:#f8f6f2;
-color:#090909;
-}
-ul{
-text-decoration:none;display:inline-block;text-align:left
-}
-footer a{
-color:#fd834c;
-text-decoration: underline;
-}
-ul li a{
-color:#fd834c
-}
-.y7d080a8b7d1a6385ff466c6b2ba315ee{
-background:#ffffff;
-}
-.zf718191746e8bfe513d24ef9ffeeb2bd{
-    background-color: transparent;
-font-size: 23.5px;
-height: 47.8px;
-min-width: 50px;
-padding: 0.7rem;
-padding-top: 12.7px;
-color: #ffffff !important;
-border: 1px solid #ffffff;
-border-radius: 25px;
-}
-.yd62b42ffc49917f7142e0e15943e643e{
-color:#000000!important;
-}
-.t720a58734004bf965fe14cd44f294b7c{
-font-size:36px;font-weight:800
-}
 *{
 font-family: 'Kumbh Sans', sans-serif;
 }
-.e87c505b5232f55a3fe29528d64b1136a > a{
-color:#000000;
+.nav-link{
+color: #000000!important;
 }
-.t71787fe6318859a1114470f2bf97504d{
-text-decoration: underline!important;color:#ff9127!important
+.nav-item .nav-link{
+display: -webkit-flex;
+align-items: center;
+padding: 11.9px 0!important;
+margin: 0px 19.8px!important;
+-webkit-align-items: center;
 }
-.container{
-max-width:1300px
+.hamburger span{
+position: absolute;
+right: 0;
+width: 29.9px;
+height: 2px;
+border-right: 5px;
+background-color: #000000;
 }
-.y7d080a8b7d1a6385ff466c6b2ba315ee *{
-color:#0f0f0f!important;
+.navbar-toggler{
+-webkit-align-self: flex-start;
+-ms-flex-item-align: start;
+align-self: flex-start;
+padding: 0px 0px;
+font-size: 20.3px;
+line-height: 1;
+background: transparent;
+border: 1px solid transparent!important;
+border-radius: 0.25rem;
 }
-iframe{
-border: none!important;
+.nav-link:hover, .dropdown-item:hover{
+ opacity: .75;
 }
-.e87c505b5232f55a3fe29528d64b1136a > a:focus, .e87c505b5232f55a3fe29528d64b1136a > a:hover{
-text-decoration: none;
-color: #0489a5;
+.navbar-nav li:hover>.dropdown-menu{
+display: block;
 }
-.tebac745a03b576fb05b549c332aa6b51:hover,.y936a1f882040d6cf8e9f5903563a38f4:hover{
-background-size: 100% 100% !important;
-background: #ffc658!important;
-background-repeat: no-repeat !important;
-background-position: 0 90% !important;
-transition: background-size 0.2s ease-in !important;
+.y8bf52ff388827770a1fb2362d7c42bf8 i{
+font-size: 19.8px;
+padding: 10px;
 }
-.u805367199c8ff96dbd3073144083a071{
-font-size: 19.6px;
-font-weight: bold;
-}
-.bg-new{
-background: #fd834c;
-padding: 17px 40px;
-letter-spacing: 1px;
-border-radius: 100px;
-font-weight: 900;
-font-size: 16px;
-}
-.c0823173f07650774f2aada5ee9fd719b{
-transition: all 0.3s; 
-}
-.baa0e72faf56a446d59b2fefe9ed9ad7a{
-font-size: 14.5px;
-}
-.c41741b9d84abe3ce1f96fbcff113229d{
-background:#eae8e4!important ;
-}
-.zb2f1206017f40cf220b2fb71acdb60c1 *{
-color: white;
-}
-h1,h2,h3,h4,h5,h6{
-font-family:Montserrat, sans-serif
+.dropdown .dropdown-menu .dropdown-item{
+width: auto;
+padding: 0.2em 1.3em 0.2em 1.3em !important;
 }
 html{
 scroll-behavior: smooth;
 }
-a:hover{
-color:#ffffff;background:#ffc658!important
-}
-footer *{
-font-size:16px !important;
-}
 a{
+color: black;
 text-decoration: none;
 }
-.c1b4cf97cf760c4199e3f9eaf3dfe1e2d{
-font-size:45px!important;font-weight:600
+.yc5fe9f0e57ea20583870d764e059b7bf:hover, .yc5fe9f0e57ea20583870d764e059b7bf:focus, .yc5fe9f0e57ea20583870d764e059b7bf.focus, .yc5fe9f0e57ea20583870d764e059b7bf.active{
+color: #ffffff !important;
+background-color: #000000 !important;
+border-color: #000000 !important;
 }
-.y7d080a8b7d1a6385ff466c6b2ba315ee p,.y7d080a8b7d1a6385ff466c6b2ba315ee span,.y7d080a8b7d1a6385ff466c6b2ba315ee label{
-font-size:16px!important;
+.fa-star,.fa-star-half-alt{
+font-size: 15.2px;
 }
-.e87c505b5232f55a3fe29528d64b1136a:hover{
-box-shadow: 0 20px 40px -5px rgba(9,30,66,.3);
-border-radius: 5px;
-}
-.x056adb298392e4e5f45740c91fca6622 p,.x056adb298392e4e5f45740c91fca6622 a,.x056adb298392e4e5f45740c91fca6622 span,.x056adb298392e4e5f45740c91fca6622 label{
-font-size:16px!important;
-}
-.d610aa53cb1da9b07d0e698c0473cf6f4 i:hover{
-background: white;
-color: #ffffff;!important;
-line-height: 35px;
-border-radius: 50%;
-width: 36.8px;
-text-align: center;
-height: 36.7px;
-}
-.dc0ac2ae96890ed7c577b1f03ee6ec14f{
-background:#FEF6EA;border-bottom:1px solid #bcbc86
-}
-.td5973a6f201a7981a3879621c24d34b8{
-color: #434343;
-}
-.navbar a{
-font-size: 15.5px!important;
-font-weight: normal;text-transform:uppercase
-}
-.a23c0bd9cdd574f6f84004ee41f23d7c2{
+.u9e48e505f93962b5dfe4b1bedacbcca1{
+padding-top: 4rem;
+padding-bottom: 6rem;
+background-color: #0d0d0d;
+bottom: 0;
+z-index: 0;
 width: 100%;
-max-height: 720px;
-object-fit: cover;
-object-position: center;
-display: block;
-max-height: 100%;
-max-width: 100%;
-margin: auto;
-position: absolute;
+}
+.hamburger span:nth-child(4){
+top: 16px;
+transition: all 0.2s;
+}
+.hamburger span:nth-child(2){
+top: 8px;
+transition: all 0.15s;
+}
+.navbar{
+background: #ffffff;
+transition: none;
+min-height: 76.7px;
+padding-top: 9.7px;
+padding-bottom: 9.7px;
+position: relative;
+z-index: 1000;
+box-shadow: 0 0 15.2px 0 rgb(0 0 0 / 10%);
+}
+.hamburger span:nth-child(1){
 top: 0;
-left: 0;
-right: 0;
+transition: all 0.2s;
 }
-.e34e59c5b5e53544985d3454014a42ea7{
+.u9e48e505f93962b5dfe4b1bedacbcca1 a{
+color:#ffffff;
+text-decoration: underline;
+}
+.u9e48e505f93962b5dfe4b1bedacbcca1 .z144eb5f6b007f9ce41d4e0045f5aefd1{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding-top: 1.5rem;
+margin-top: 4rem;
+border-top: 2px solid #ffffff;
+}
+.dropdown .dropdown-menu{
+background: #ffffff;
+position: absolute;
+display: none;
+min-width: 49.6px;
+padding-top: 9.9px;
+box-shadow: 0 0 14.7px 0 rgb(0 0 0 / 10%);
+padding-bottom: 9.5px;
+text-align: left;
+}
+button.navbar-toggler{
+width: 30.9px;
+height: 17.8px;
+cursor: pointer;
+transition: all 0.2s;
+top: 2rem;
+display: block;
+right: 1.5rem;
+position: absolute;
+}
+.dropdown-item{
+display: block;
+width: 100%;
+clear: both;
+font-weight: 400;
+color: #212529;
+text-align: inherit;
+white-space: nowrap;
+background-color: transparent;
+border: 0;
+}
+.u9e48e505f93962b5dfe4b1bedacbcca1 li{
+list-style: none;
+padding-left: 0;
+margin-top: 1.5rem;
+text-align: left;
+color: #000000;
+}
+.u9e48e505f93962b5dfe4b1bedacbcca1 ul{
+padding-left: 0px;
+}
+a:hover{
+color:#ffffff!important;
+background: #ffc658!important;
+opacity: .75;
+text-decoration: none;
+}
+.yc5fe9f0e57ea20583870d764e059b7bf,.yc5fe9f0e57ea20583870d764e059b7bf:active{
+background-color:#ffc107!important;
+border-color:#000000!important;
+color:#000000!important;
+padding: 9.8px 20.1px!important;
+border-radius: 0;
+font-weight: 700!important;
+letter-spacing: 0px;
+transition-property: all;
+transition-duration: .2s;
+min-width: 200.2px !important;
+}
+a:hover, a:focus, a.active{
+color:#ffffff!important;
+}
+.u9e48e505f93962b5dfe4b1bedacbcca1 *{
+color:#ffffff;
 font-size:16px!important;
-color: #727272;
 }
-    .dropdown-submenu {
+p, .v3b1971d9f3ffef4c7222f5e8e90733b7{
+font-size:16px;
+line-height: 1.68;
+font-weight: 400;
+}
+.hamburger span:nth-child(3){
+top: 8px;
+transition: all 0.15s;
+}
+.y940e12b8748337870fbfd8ef49c28d2a{
+font-weight: 700 !important;
+}
+
+.dropdown-submenu {
     position: relative;
 }
 
@@ -411,31 +318,42 @@ color: #727272;
 </style>
 </head>
 <body>
-<nav class="container navbar navbar-expand-lg">
-<a class="navbar-brand" href="index.html"  ><img alt="img/logo.jpg" src="img/logo.jpg" ></a>
+<nav class="navbar-expand-lg px-md-5 navbar">
+<a class="navbar-brand" href="index.html"  > 
+<img alt="" src="img/logo.jpg"  >
+</a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="ml-auto align-items-center d-flex navbar-nav"><li class="nav-item">
-<a class="nav-link tebac745a03b576fb05b549c332aa6b51" href="index.html" >køb af container</a>
+<div class="hamburger"><span></span><span></span><span></span><span></span></div>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav ml-auto">
+<li class="nav-item">
+<a class="v3b1971d9f3ffef4c7222f5e8e90733b7 nav-link" href="index.html" ><b>container køb</b></a>
 </li>
 <li class="nav-item">
-<a class="nav-link tebac745a03b576fb05b549c332aa6b51" href="brugte-containere-til-salg.html" >brugte containere til salg</a>
+<a class="v3b1971d9f3ffef4c7222f5e8e90733b7 nav-link" href="pris-brugte-containere.html" ><b>pris brugte containere</b></a>
 </li>
 <li class="nav-item">
-<a class="tebac745a03b576fb05b549c332aa6b51 nav-link" href="koebe-container.html" >købe container</a>
+<a class="nav-link v3b1971d9f3ffef4c7222f5e8e90733b7" href="brugte-containere-til-salg.html" ><b>brugte containere til salg</b></a>
 </li>
 <li class="nav-item">
-<a class="nav-link tebac745a03b576fb05b549c332aa6b51" href="brugte-containere.html" >brugte containere</a>
+<a class="v3b1971d9f3ffef4c7222f5e8e90733b7 nav-link" href="koeb-af-container.html" ><b>køb af container</b></a>
 </li>
-<li class="nav-item dropdown">
-<a class="nav-link tebac745a03b576fb05b549c332aa6b51 dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Mere</a>
+<li class="dropdown nav-item">
+<a class="nav-link dropdown-toggle v3b1971d9f3ffef4c7222f5e8e90733b7" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false"><b>Mere</b></a>
 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="koeb-container.html"  >køb container</a><a class="dropdown-item" href="brugt-container.html"  >brugt container</a><a class="dropdown-item" href="pris-brugt-container.html"  >pris brugt container</a><a class="dropdown-item" href="lej-container-pris.html"  >lej container pris</a><a class="dropdown-item" href="container-koeb.html"  >container køb</a><a class="dropdown-item" href="pris-brugte-containere.html"  >pris brugte containere</a></div>
-</li>
-</ul>
+<a class="v3b1971d9f3ffef4c7222f5e8e90733b7 dropdown-item" href="lej-container-pris.html" >lej container pris</a>
+<a class="dropdown-item v3b1971d9f3ffef4c7222f5e8e90733b7" href="brugte-containere.html" >brugte containere</a>
+<a class="v3b1971d9f3ffef4c7222f5e8e90733b7 dropdown-item" href="brugt-container.html" >brugt container</a>
+<a class="v3b1971d9f3ffef4c7222f5e8e90733b7 dropdown-item" href="koebe-container.html" >købe container</a>
+<a class="dropdown-item v3b1971d9f3ffef4c7222f5e8e90733b7" href="koeb-container.html" >køb container</a>
+<a class="v3b1971d9f3ffef4c7222f5e8e90733b7 dropdown-item" href="pris-brugt-container.html" >pris brugt container</a>
+</div>
+</li></ul>
 </div>
 </nav>
-<section class="container" style="min-height: 80vh;margin-top: 70px">
+<div>
+<section class="container">
 <h1>Privatlivspolitik for </h1>
 <p>At  one of our main priorities is the privacy of our visitors.
  This Privatlivspolitik document contains types of information that is collected and recorded by  and how we use it. You can check out our main website here: </p>
@@ -497,16 +415,21 @@ This website is owned and published by:
 </br>
 </p>
 </section>
-<footer>
-<div class="py-4 pt-5 container" >
-<div class="row"><div class="col-lg-3">
-<p>Relevante sider</p>
-<p><a class="tebac745a03b576fb05b549c332aa6b51" href="https://container-pris.dk/viden/container-mal/" rel="nofollow" target="_blank">brugte containere til salg</a></p></div><div class="col-lg-3"><p><a class="tebac745a03b576fb05b549c332aa6b51" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="tebac745a03b576fb05b549c332aa6b51" href="privacy-policy.html" rel="nofollow">Privatlivspolitik</a></p>
-</p>
+</div>
+<footer class="u9e48e505f93962b5dfe4b1bedacbcca1">
+<div class="container"><div class="row"><div class="col-md-3">
+<h5 class="b195ec763a90b44eb37ad1c20be2b8432 mb-3 e34b37b7eaa57b20841e96fef0bd09e09"><b>Relevante sider</b></h5> 
+<ul class="v3b1971d9f3ffef4c7222f5e8e90733b7">
+<li><a href="https://container-pris.dk/leje/flyttecontainer/" rel="nofollow" target="_blank">brugte containere</a></li></ul>
+</div></div><div class="row">
+<div class="col-12">
+<div class="z144eb5f6b007f9ce41d4e0045f5aefd1">
+<div><a href="sitemap.html" rel="nofollow">Sitemap | </a>
+<a class="v3b1971d9f3ffef4c7222f5e8e90733b7" href="privacy-policy.html" rel="nofollow">Privatlivspolitik</a> 
 </div></div>
 </div>
-</footer> 
+</div></div>
+</footer></body>
 <script type="text/javascript">
 document.addEventListener('DOMContentLoaded', function() {
 var dropdowns = document.querySelectorAll('.dropdown-hover');
@@ -529,7 +452,7 @@ var dropdownMenu = dropdown.querySelector('.dropdown-toggle');
 dropdownMenu.addEventListener('click', handleClick);
 });
 });
-</script> 
+</script>
  <script>
 (function() {
   // Works with both BS4 (data-toggle events) and BS5
@@ -568,5 +491,3 @@ dropdownMenu.addEventListener('click', handleClick);
   });
 })();
 </script>
-</body>
-</html>
